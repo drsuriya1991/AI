@@ -1,1 +1,1 @@
-# AI
+# AI at Purdue ECE
